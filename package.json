@@ -1,0 +1,7 @@
+{
+  "name": "rxjs-from-scratch",
+  "version": "1.0.0",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
