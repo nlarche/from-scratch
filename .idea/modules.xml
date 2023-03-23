@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rxjs-from-scratch.iml" filepath="$PROJECT_DIR$/rxjs-from-scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/from-scratch.iml" filepath="$PROJECT_DIR$/from-scratch.iml" />
     </modules>
   </component>
 </project>

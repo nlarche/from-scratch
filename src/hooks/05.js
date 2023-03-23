@@ -26,7 +26,9 @@ function Component() {
   };
 }
 
-var App = React.render(Component);
+// React workloop
+//github.com/facebook/react/blob/f765f022534958bcf49120bf23bc1aa665e8f651/packages/react-reconciler/src/ReactFiberScheduler.js#L1136
+https: var App = React.render(Component);
 App.click();
 var App = React.render(Component);
 App.click();
