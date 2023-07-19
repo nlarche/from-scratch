@@ -1,3 +1,3 @@
 # from-scratch
 
-For better understanding, implementation from scratch of react hooks, reactJs, or solidjs reacticity
+For better understanding, implementation from scratch of react hooks, RxJs, or solidjs reacticity
